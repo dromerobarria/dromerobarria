@@ -1,16 +1,16 @@
-### Hi there 👋
+Hello World! 👋🏼 
 
-<!--
-**dromerobarria/dromerobarria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am iOS developer 🍏 and ❤️ Swift
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Dromerobarria's GitHub stats](https://github-readme-stats.vercel.app/api?username=dromerobarria&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dromerobarria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Apart from being a iOS developer, I enjoy most of my time being outdoors. I love soccer ⚽.
+
+Im vegan ❤️ 🐖🐄🐕
+
+I love a cup of coffee and if you want to talk about iOS development or React, Android or anything please ☕ Let get in touch:
+✨ Twitter: https://twitter.com/dromerobarria
